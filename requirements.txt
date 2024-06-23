@@ -1,0 +1,4 @@
+pytube3
+openai
+youtube-transcript-api
+ffmpeg-python
